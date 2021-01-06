@@ -129,3 +129,6 @@ img{
     float: left;
     color: rgb(56, 49, 49);
 }
+.contact a{
+    text-decoration: none;
+}
